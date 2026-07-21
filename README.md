@@ -20,7 +20,6 @@ assets/           # favicon e recursos estáticos
 
 ## Pendências para colocar no ar
 
-- Substituir o número de WhatsApp placeholder `5500000000000` nos links `wa.me` do `index.html` pelo número real.
 - Ajustar textos de estatísticas (itens no catálogo, clientes atendidos etc.) para os números reais do negócio.
 
 ## Desenvolvimento local
